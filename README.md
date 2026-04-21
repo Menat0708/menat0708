@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🚀 Nombre del Proyecto
+
+![status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
+![license](https://img.shields.io/badge/license-MIT-blue)
+
+## 📌 Descripción
+Breve descripción de tu proyecto. Explica qué hace, para qué sirve y por qué es útil.
+
+---
+
+## 🛠️ Tecnologías usadas
+- Python.
+- MySQL
+- Pandas
+- SQLAlchemy
+
+---
+
+## ⚙️ Instalación
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+pip install -r requirements.txt
